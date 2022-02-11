@@ -3,4 +3,4 @@
 
 Ou
 
-![QR Code](https://github.com/nogueirafelipe/projeto-cordel/blob/main/imagens/frame.png)
+![QR Code](https://github.com/nogueirafelipe/projeto-cordel/imagens/frame.png)
