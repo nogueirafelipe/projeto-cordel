@@ -1,4 +1,6 @@
-# projeto-cordel
- <a href='https://nogueirafelipe.github.io/projeto-cordel/' target='_blank' rel='external'>Clique aqui para ir para o Projeto-cordel</a>
- ou
- <img src='imagens/qr-code.png' alt='Um QR Code'>
+# Endereço do site: 
+[nogueirafelipe.github.io/projeto-cordel](https://nogueirafelipe.github.io/projeto-cordel/)
+
+Ou
+
+![QR Code](https://github.com/nogueirafelipe/projeto-cordel/blob/main/imagens/frame.png)
